@@ -11,4 +11,4 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=villaxd123&layout=donut&langs_count=8&theme=vue-dark)
 
 ## Alura Challenges
-![Challenge 1 - Encriptador](https://github-readme-stats.vercel.app/api/pin/?username=villaxd123&repo=Challenge-1-Encriptador&show_owner=true&theme=vue-dark)
+[![Challenge 1 - Encriptador](https://github-readme-stats.vercel.app/api/pin/?username=villaxd123&repo=Challenge-1-Encriptador&show_owner=true&theme=vue-dark)](https://github.com/villaxd123/Challenge-1-Encriptador)
