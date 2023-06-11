@@ -7,11 +7,8 @@
 - 💞️ I’m looking to collaborate on something
 
 ## Stats
-[![Jorge Villafuerte's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=villaxd123&show_icons=true&include_all_commits=true&theme=radical#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=villaxd123&show_icons=true&include_all_commits=true&theme=radical#gh-dark-mode-only)
-[![Jorge Villafuerte's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=villaxd123&show_icons=true&include_all_commits=true&theme=vue-dark#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=villaxd123&show_icons=true&include_all_commits=true&theme=vue-dark#gh-light-mode-only)
-[![Most Used Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=villaxd123&layout=donut&langs_count=8&theme=radical#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=villaxd123&layout=donut&langs_count=8&theme=radical#gh-dark-mode-only)
-[![Most Used Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=villaxd123&layout=donut&langs_count=8&theme=vue-dark#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=villaxd123&layout=donut&langs_count=8&theme=vue-dark#gh-light-mode-only)
+![Jorge Villafuerte's GitHub stats](https://github-readme-stats.vercel.app/api?username=villaxd123&show_icons=true&include_all_commits=true&theme=vue-dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=villaxd123&layout=donut&langs_count=8&theme=vue-dark)
 
 ## Alura Challenges
-[![Challenge 1 - Encriptador-Dark](https://github-readme-stats.vercel.app/api/pin/?username=villaxd123&repo=Challenge-1-Encriptador&show_owner=true&theme=radical#gh-dark-mode-only)](https://github.com/villaxd123/Challenge-1-Encriptador#gh-dark-mode-only)
-[![Challenge 1 - Encriptador-Light](https://github-readme-stats.vercel.app/api/pin/?username=villaxd123&repo=Challenge-1-Encriptador&show_owner=true&theme=vue-dark#gh-light-mode-only)](https://github.com/villaxd123/Challenge-1-Encriptador#gh-light-mode-only)
+![Challenge 1 - Encriptador](https://github-readme-stats.vercel.app/api/pin/?username=villaxd123&repo=Challenge-1-Encriptador&show_owner=true&theme=vue-dark)
