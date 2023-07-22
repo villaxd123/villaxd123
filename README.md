@@ -12,3 +12,4 @@
 
 ## Alura Challenges
 [![Challenge Encriptador](https://github-readme-stats.vercel.app/api/pin/?username=villaxd123&repo=Challenge-1-Encriptador&show_owner=false&theme=blueberry)](https://github.com/villaxd123/Challenge-1-Encriptador)
+[![Challenge Conversor](https://github-readme-stats.vercel.app/api/pin/?username=villaxd123&repo=Challenge-2-Conversor&show_owner=false&theme=blueberry)](https://github.com/villaxd123/Challenge-2-Conversor)
