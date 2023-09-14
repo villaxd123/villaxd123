@@ -13,3 +13,7 @@
 ## Alura Challenges
 [![Challenge Encriptador](https://github-readme-stats.vercel.app/api/pin/?username=villaxd123&repo=Challenge-1-Encriptador&show_owner=false&theme=blueberry)](https://github.com/villaxd123/Challenge-1-Encriptador)
 [![Challenge Conversor](https://github-readme-stats.vercel.app/api/pin/?username=villaxd123&repo=Challenge-2-Conversor&show_owner=false&theme=blueberry)](https://github.com/villaxd123/Challenge-2-Conversor)
+[![Challenge Hotel](https://github-readme-stats.vercel.app/api/pin/?username=villaxd123&repo=Challenge-3-Hotel-Alura&show_owner=false&theme=blueberry)](https://github.com/villaxd123/Challenge-3-Hotel-Alura)
+
+---
+[![](https://visitcount.itsvg.in/api?id=villaxd123&label=Visitas&color=1&icon=2&pretty=true)](https://github.com/villaxd123)
