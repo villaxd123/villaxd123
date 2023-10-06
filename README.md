@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Jorge Villafuerte
 ## About Me
-- 👀 On the way to being a Back-End Developer
-- 😍 I like Networking, TI, Programming, Videogames and everything that is related to tecnologies
-- 🌱 Learning Java, Spring Framework and Networking
+- 👀 Back-End Developer graduate of the program ONE
+- 😍 I like Networking, TI, Programming and Videogames
+- 🌱 I work with Java and Spring Framework
 - 🧬 Music and Food is part of my life
 - 💞️ I’m looking to collaborate on something
 
